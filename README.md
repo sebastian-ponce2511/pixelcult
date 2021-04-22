@@ -1,2 +1,2 @@
-# pixelcult
-Proyecto de práctica para el curso de desarrollo web de ITMaster
+# it-master-desarrollo-web
+Proyecto de practica para el curso de desarrollo web en IT Master
